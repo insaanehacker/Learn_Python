@@ -1,0 +1,3 @@
+name = "Insaane"
+data = xyz
+main data = 123456
