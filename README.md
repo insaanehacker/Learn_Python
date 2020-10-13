@@ -29,7 +29,7 @@ Follow by order below
 26. Writing Files - write.txt, write1.txt
 27. Modules & Pip - Modules_Sample
 28. Classes & Objects - Student, Object
-29. Building MCQ - MCQ, MCQ Objects
+29. MCQ - MCQ Objects
 30. Object Functions
 31. Inheritance
 32. Python Interpreter
