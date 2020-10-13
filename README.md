@@ -1,6 +1,6 @@
 # Learn_Python
-Learn python with me
-Follow by order below
+Learn python with me,
+Follow by order below,
 1. Introduction
 2. Variables and Datatypes
 3. Strings
