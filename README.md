@@ -34,3 +34,17 @@ Follow by order below,
 31. Inheritance - Inherit_Class_2, Inherit_Object
 32. Python Interpreter.txt
 33. Final.txt
+
+
+
+                                                    SO GUYS, STILL NOW, I WAS TEACHING YOU PYTHON IN SIMPLEST WAYS
+                                            WHAT I HAVE THOUGHT YOU IS ALL THE MOST USED COMMANDS AND FUNCTION IN REAL WORLD
+                                            IF YOU WANT TO LEARN MORE, I RECOMMEND YOU TO FOLLOW THE OFFICIAL PYTHON WEBSITE
+                                                                       I HOPE YOU UNDERSTOOD MY CLASS
+                                                   IF YOU FACE ANY DIFFICULTIES CONTACT ME AT INSTAGRAM @insaane_hacker
+
+                                                                        ROCK IN PYTHON PROGRAMMING....
+
+                                                                                ALL THE BEST
+
+                                                                                 THANK YOU!
