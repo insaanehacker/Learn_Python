@@ -37,14 +37,14 @@ Follow by order below,
 
 
 
-                                                    SO GUYS, STILL NOW, I WAS TEACHING YOU PYTHON IN SIMPLEST WAYS
-                                            WHAT I HAVE THOUGHT YOU IS ALL THE MOST USED COMMANDS AND FUNCTION IN REAL WORLD
-                                            IF YOU WANT TO LEARN MORE, I RECOMMEND YOU TO FOLLOW THE OFFICIAL PYTHON WEBSITE
-                                                                       I HOPE YOU UNDERSTOOD MY CLASS
-                                                   IF YOU FACE ANY DIFFICULTIES CONTACT ME AT INSTAGRAM @insaane_hacker
+                                                SO GUYS, STILL NOW, I WAS TEACHING YOU PYTHON IN SIMPLEST WAYS
+                                        WHAT I HAVE THOUGHT YOU IS ALL THE MOST USED COMMANDS AND FUNCTION IN REAL WORLD
+                                        IF YOU WANT TO LEARN MORE, I RECOMMEND YOU TO FOLLOW THE OFFICIAL PYTHON WEBSITE
+                                                                   I HOPE YOU UNDERSTOOD MY CLASS
+                                               IF YOU FACE ANY DIFFICULTIES CONTACT ME AT INSTAGRAM @insaane_hacker
 
-                                                                        ROCK IN PYTHON PROGRAMMING....
+                                                                    ROCK IN PYTHON PROGRAMMING....
 
-                                                                                ALL THE BEST
+                                                                            ALL THE BEST
 
-                                                                                 THANK YOU!
+                                                                             THANK YOU!
