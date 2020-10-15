@@ -30,6 +30,7 @@ Follow by order below,
 27. Modules & Pip - Modules_Sample
 28. Classes & Objects - Student, Object
 29. MCQ - MCQ Objects
-30. Object Functions
-31. Inheritance
-32. Python Interpreter
+30. Object Functions - O_C_Object
+31. Inheritance - Inherit_Class_2, Inherit_Object
+32. Python Interpreter.txt
+33. Final.txt
