@@ -1,0 +1,8 @@
+This is like an code interface to check your code works without saving anything
+In windows: Go to command prompt
+command: python3 #This will get you inside python3 interpreter
+Now you can able to code or test any code
+Like the normal IDE, it gives our same output
+
+If you like it use it, but i dont personally recommend using it
+
